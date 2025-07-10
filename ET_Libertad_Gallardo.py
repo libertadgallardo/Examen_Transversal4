@@ -1,4 +1,4 @@
-
+iuliul
 
 caracteristicas = ["Marca", "Pantalla (pulgadas)", "RAM", "Tipo de Disco", "Capacidad", "Procesador", "Tarjeta Gráfica"]
 
